@@ -7,7 +7,7 @@
 /*
     C Completo e Total
     criando um arquivo CSV com dados de alunos
-*/
+*/ 
 
 // Armazenando as informações de um aluno
 typedef struct
