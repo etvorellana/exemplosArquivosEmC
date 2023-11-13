@@ -6,8 +6,8 @@
     Escrevendo em um arquivo de texto.
     * Vaja que acontece com o arquivo "arquivo_texto.txt" após
     executar repetidamente este exemplo.
-    * O caractere '$' está aparecendo no arquivo. Como não incluir ele no 
-    arquivo? 
+    * O caractere '$' está aparecendo no arquivo. Como não 
+    incluir ele no arquivo? 
 */
 
 int main(void)
@@ -17,8 +17,8 @@ int main(void)
     int err;
 
     /*
-        O arquivo "arquivo_texto.txt" foi criado no exemplo anterior e, mesmo
-        qie vazio, ele já existe. Então:
+        O arquivo "arquivo_texto.txt" foi criado no exemplo 
+        anterior e, mesmo que vazio, ele já existe. Então:
     */
     // abre um arquivo de texto já existente para anexar no final
     fp = fopen("arquivo_texto.txt", "a");
